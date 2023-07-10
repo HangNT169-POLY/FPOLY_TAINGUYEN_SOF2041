@@ -8,6 +8,8 @@ https://www.youtube.com/c/HelloWorld-Raven/featured
 https://www.youtube.com/watch?v=HviIu-9i1BU 
 <br/>
 https://www.youtube.com/watch?v=o3YvaMFtVq0
+<br/>
+https://youtu.be/iDFXNtFwiUA
 
 ## 2. Quét Barcode
 https://www.youtube.com/watch?v=y9n1zqHx8_g&t=487s 
