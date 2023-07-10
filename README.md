@@ -2,7 +2,9 @@
 
 ## 1. Làm giao diện đẹp
 https://www.youtube.com/watch?v=He-1O8Pa4SE&list=PLlGZc17KPrVCGRKtgbdvnGshN8AePlqpd 
+<br/>
 https://www.youtube.com/c/HelloWorld-Raven/featured 
+<br/>
 https://www.youtube.com/watch?v=HviIu-9i1BU 
 
 ## 2. Quét Barcode
