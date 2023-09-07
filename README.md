@@ -34,8 +34,10 @@ https://www.youtube.com/watch?v=hNrCp675A_I
 
 ## 9.Gửi Mail
 https://www.youtube.com/watch?v=TJXxImu0eVk 
+<br/>
 https://www.youtube.com/watch?v=atkaEL40vfY 
 
 ## 10.Trích xuất văn bản từ ảnh
 https://www.youtube.com/watch?v=ojKclE7G898 
+<br/>
 https://www.youtube.com/watch?v=McE9yHqr6Kk 
